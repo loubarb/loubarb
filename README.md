@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Louis! I'm a front-end developer with drive and passion to create and build memorable websites.
+- 👋 Hi, I’m Louis! I'm technical support engineer that wanted to grow my skillset and decided to learn code!
 - 💻 I've built my foundation of skills in HTML, CSS, JavaScript, and React while continuing to learn about them more in depth.
 - 📑 I’m currently learning Ruby and Java to add some backend languages to my stack.
 - 📫 I'm always open to learning and collaborating! Connect with me:
